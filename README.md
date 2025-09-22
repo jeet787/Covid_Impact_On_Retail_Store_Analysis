@@ -1,3 +1,6 @@
+# **🎯Retail Sales Data Analysis By Satyajeet Katkar**
+
+
 # Retail Sales Analysis Dashboard 📈
 
 An interactive Tableau dashboard project that provides insights into retail sales performance. The analysis helps stakeholders monitor sales & profit trends over time, evaluate product & region performance, and identify actionable opportunities to improve business outcomes.
@@ -10,7 +13,7 @@ An interactive Tableau dashboard project that provides insights into retail sale
 
 ---
 
-## 🎯Overview
+## 📌Overview
 
 This project leverages retail sales transaction data to provide a multi-dimensional view of business performance. Key aims are:
 
